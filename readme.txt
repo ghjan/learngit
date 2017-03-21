@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 no fast forward
 Git is a free sofware
+bug branch from dev branch
